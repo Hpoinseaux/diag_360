@@ -1,0 +1,24 @@
+# Node / frontend
+front/node_modules/
+front/.env
+front/dist/
+
+# Python / backend
+backend/.env
+backend/.venv/
+__pycache__/
+
+# Data & secrets
+.env
+*.env.local
+Diag360_EvolV2.xlsx
+/backups/
+/data/
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Misc
+/scripts/*.log

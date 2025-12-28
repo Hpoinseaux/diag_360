@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" font-family="'Fira Sans', 'Segoe UI', sans-serif">
+  <defs>
+    <style>
+      .table { fill:#f8fafc; stroke:#0f172a; stroke-width:2; rx:8; }
+      .title { font-size:20px; font-weight:600; fill:#0f172a; }
+      .cols { font-size:14px; fill:#1e293b; }
+      .section { font-size:24px; font-weight:700; fill:#0f172a; }
+      .rel { stroke:#64748b; stroke-width:2; marker-end:url(#arrow); }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L12,6 L0,12 z" fill="#64748b" />
+    </marker>
+  </defs>
+
+  <text x="700" y="50" text-anchor="middle" class="section">Schéma relationnel Diag360</text>
+  <text x="700" y="75" text-anchor="middle" class="cols">diag360_ref · diag360_raw · public</text>
+
+  <!-- diag360_ref tables -->
+  <rect class="table" x="60" y="110" width="320" height="180" />
+  <text class="title" x="80" y="140">needs</text>
+  <text class="cols" x="80" y="170">id (PK)</text>
+  <text class="cols" x="80" y="190">label</text>
+  <text class="cols" x="80" y="210">url</text>
+  <text class="cols" x="80" y="230">occurrence_count</text>
+
+  <rect class="table" x="420" y="110" width="320" height="220" />
+  <text class="title" x="440" y="140">indicators</text>
+  <text class="cols" x="440" y="170">id (PK)</text>
+  <text class="cols" x="440" y="190">label</text>
+  <text class="cols" x="440" y="210">primary_domain / url / api</text>
+  <text class="cols" x="440" y="230">secondary_domain / url</text>
+  <text class="cols" x="440" y="250">value_type</text>
+
+  <rect class="table" x="780" y="110" width="240" height="160" />
+  <text class="title" x="800" y="140">objectives</text>
+  <text class="cols" x="800" y="170">id (PK)</text>
+  <text class="cols" x="800" y="190">label</text>
+  <text class="cols" x="800" y="210">url</text>
+
+  <rect class="table" x="1060" y="110" width="240" height="160" />
+  <text class="title" x="1080" y="140">indicator_types</text>
+  <text class="cols" x="1080" y="170">id (PK)</text>
+  <text class="cols" x="1080" y="190">label</text>
+  <text class="cols" x="1080" y="210">url</text>
+
+  <rect class="table" x="260" y="360" width="320" height="220" />
+  <text class="title" x="280" y="390">indicator_need_links</text>
+  <text class="cols" x="280" y="420">indicator_id → indicators.id</text>
+  <text class="cols" x="280" y="440">need_id → needs.id</text>
+  <text class="cols" x="280" y="460">role (primary / extra)</text>
+  <text class="cols" x="280" y="480">need_category / label</text>
+  <text class="cols" x="280" y="500">extra_needs[]</text>
+
+  <rect class="table" x="640" y="360" width="280" height="200" />
+  <text class="title" x="660" y="390">indicator_objective_links</text>
+  <text class="cols" x="660" y="420">indicator_id → indicators.id</text>
+  <text class="cols" x="660" y="440">objective_id → objectives.id</text>
+  <text class="cols" x="660" y="460">covers_subsistence / crisis / sustainability</text>
+
+  <rect class="table" x="960" y="360" width="280" height="200" />
+  <text class="title" x="980" y="390">indicator_type_links</text>
+  <text class="cols" x="980" y="420">indicator_id → indicators.id</text>
+  <text class="cols" x="980" y="440">indicator_type_id → indicator_types.id</text>
+  <text class="cols" x="980" y="460">is_state / is_action</text>
+
+  <!-- diag360_raw tables -->
+  <rect class="table" x="60" y="630" width="360" height="210" />
+  <text class="title" x="80" y="660">epcis</text>
+  <text class="cols" x="80" y="690">code_siren (PK)</text>
+  <text class="cols" x="80" y="710">label, legal_form, populations...</text>
+  <text class="cols" x="80" y="730">surface, densité...</text>
+
+  <rect class="table" x="460" y="600" width="280" height="200" />
+  <text class="title" x="480" y="630">indicator_values</text>
+  <text class="cols" x="480" y="660">epci_siren → epcis.code_siren</text>
+  <text class="cols" x="480" y="680">indicator_id → indicators.id</text>
+  <text class="cols" x="480" y="700">value, unit, data_year</text>
+
+  <rect class="table" x="780" y="600" width="280" height="200" />
+  <text class="title" x="800" y="630">indicator_scores</text>
+  <text class="cols" x="800" y="660">epci_siren → epcis.code_siren</text>
+  <text class="cols" x="800" y="680">indicator_id → indicators.id</text>
+  <text class="cols" x="800" y="700">score, data_year</text>
+
+  <rect class="table" x="1100" y="600" width="240" height="180" />
+  <text class="title" x="1120" y="630">score_means</text>
+  <text class="cols" x="1120" y="660">epci_siren → epcis.code_siren</text>
+  <text class="cols" x="1120" y="680">metric_code</text>
+  <text class="cols" x="1120" y="700">value, data_year</text>
+
+  <rect class="table" x="460" y="820" width="420" height="120" />
+  <text class="title" x="480" y="850">transformation_rules</text>
+  <text class="cols" x="480" y="880">indicator_id → indicators.id</text>
+  <text class="cols" x="480" y="900">unit, bounds, regression_type</text>
+
+  <!-- relationships -->
+  <line class="rel" x1="380" y1="190" x2="420" y2="210" />
+  <line class="rel" x1="580" y1="330" x2="580" y2="360" />
+  <line class="rel" x1="640" y1="330" x2="780" y2="360" />
+  <line class="rel" x1="720" y1="330" x2="1080" y2="360" />
+  <line class="rel" x1="220" y1="560" x2="520" y2="600" />
+  <line class="rel" x1="220" y1="560" x2="840" y2="600" />
+  <line class="rel" x1="220" y1="560" x2="1220" y2="600" />
+  <line class="rel" x1="720" y1="800" x2="720" y2="820" />
+</svg>

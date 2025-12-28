@@ -1,0 +1,87 @@
+services:
+  db:
+    image: postgres:15
+    container_name: diag360-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-diag360}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-diag360pwd}
+      POSTGRES_DB: ${POSTGRES_DB:-diag360}
+    volumes:
+      - ${SHARED_DATA_ROOT:-./docker-data}/postgres:/var/lib/postgresql/data
+      - ./docker/postgres/init:/docker-entrypoint-initdb.d
+    networks:
+      - diag360-ntw
+
+  backend:
+    build:
+      context: ./backend
+    container_name: diag360-backend
+    restart: unless-stopped
+    depends_on:
+      - db
+    environment:
+      DATABASE_URL: ${DATABASE_URL:-postgresql+psycopg://diag360:diag360pwd@db:5432/diag360}
+      BACKEND_PORT: ${BACKEND_PORT:-8000}
+      ENVIRONMENT: ${ENVIRONMENT:-local}
+    expose:
+      - "8000"
+    networks:
+      - diag360-ntw
+
+  backend_ingest:
+    build:
+      context: ./backend
+    container_name: diag360-backend-ingest
+    profiles: ["ingest"]
+    depends_on:
+      - db
+    entrypoint: ["python", "-m", "app.cli.ingest_workbook"]
+    command: ["--file", "/data/Diag360_EvolV2.xlsx"]
+    environment:
+      DATABASE_URL: ${DATABASE_URL:-postgresql+psycopg://diag360:diag360pwd@db:5432/diag360}
+      POSTGRES_USER: ${POSTGRES_USER:-diag360}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-diag360pwd}
+      POSTGRES_DB: ${POSTGRES_DB:-diag360}
+      POSTGRES_HOST: db
+      POSTGRES_PORT: ${POSTGRES_PORT:-5432}
+    volumes:
+      - ./backend:/app
+      - ./Diag360_EvolV2.xlsx:/data/Diag360_EvolV2.xlsx:ro
+    networks:
+      - diag360-ntw
+
+  frontend:
+    build:
+      context: ./front
+      args:
+        VITE_API_BASE_URL: ${VITE_API_BASE_URL:-http://localhost:8000/api}
+    container_name: diag360-frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    expose:
+      - "80"
+    networks:
+      - diag360-ntw
+
+  nocodb:
+    image: nocodb/nocodb:0.205.1
+    container_name: diag360-nocodb
+    restart: unless-stopped
+    environment:
+      NC_DB: "pg://${POSTGRES_USER:-diag360}:${POSTGRES_PASSWORD:-diag360pwd}@db:5432/${POSTGRES_DB:-diag360}"
+      NC_JWT_SECRET: ${NOCODB_JWT_SECRET:-please-change-me}
+      NC_PUBLIC_URL: ${NOCODB_PUBLIC_URL:-https://nocodb.diag360.org}
+      NC_ADMIN_EMAIL: ${NOCODB_EMAIL:-admin@diag360.local}
+      NC_ADMIN_PASSWORD: ${NOCODB_PASSWORD:-changeme}
+    depends_on:
+      - db
+    expose:
+      - "8080"
+    networks:
+      - diag360-ntw
+
+networks:
+  diag360-ntw:
+    external: true

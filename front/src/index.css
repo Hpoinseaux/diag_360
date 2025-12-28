@@ -1,0 +1,160 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap');
+
+@layer base {
+  :root {
+    --background: 210 20% 98%;
+    --foreground: 200 24% 16%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 200 24% 16%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 200 24% 16%;
+
+    --primary: 152 55% 33%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 152 30% 94%;
+    --secondary-foreground: 152 55% 25%;
+
+    --muted: 210 15% 93%;
+    --muted-foreground: 200 10% 45%;
+
+    --accent: 45 93% 58%;
+    --accent-foreground: 200 24% 16%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 210 15% 88%;
+    --input: 210 15% 88%;
+    --ring: 152 55% 33%;
+
+    --radius: 0.75rem;
+
+    /* Custom ecological colors */
+    --eco-excellent: 142 76% 36%;
+    --eco-good: 152 55% 45%;
+    --eco-moderate: 84 60% 50%;
+    --eco-warning: 45 93% 58%;
+    --eco-poor: 25 95% 53%;
+    --eco-critical: 0 72% 51%;
+
+    /* Gradients */
+    --gradient-hero: linear-gradient(135deg, hsl(152 55% 33%) 0%, hsl(170 50% 40%) 100%);
+    --gradient-card: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(210 20% 97%) 100%);
+
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 hsl(200 24% 16% / 0.05);
+    --shadow-md: 0 4px 6px -1px hsl(200 24% 16% / 0.1), 0 2px 4px -2px hsl(200 24% 16% / 0.1);
+    --shadow-lg: 0 10px 15px -3px hsl(200 24% 16% / 0.1), 0 4px 6px -4px hsl(200 24% 16% / 0.1);
+    --shadow-glow: 0 0 40px hsl(152 55% 33% / 0.15);
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 200 24% 10%;
+    --foreground: 210 20% 98%;
+
+    --card: 200 20% 14%;
+    --card-foreground: 210 20% 98%;
+
+    --popover: 200 20% 14%;
+    --popover-foreground: 210 20% 98%;
+
+    --primary: 152 55% 45%;
+    --primary-foreground: 200 24% 10%;
+
+    --secondary: 200 15% 20%;
+    --secondary-foreground: 152 55% 70%;
+
+    --muted: 200 15% 18%;
+    --muted-foreground: 210 10% 60%;
+
+    --accent: 45 93% 58%;
+    --accent-foreground: 200 24% 10%;
+
+    --destructive: 0 62% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 200 15% 22%;
+    --input: 200 15% 22%;
+    --ring: 152 55% 45%;
+
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display font-semibold tracking-tight;
+  }
+}
+
+@layer utilities {
+  .gradient-hero {
+    background: var(--gradient-hero);
+  }
+
+  .gradient-card {
+    background: var(--gradient-card);
+  }
+
+  .shadow-glow {
+    box-shadow: var(--shadow-glow);
+  }
+
+  .text-gradient {
+    background: var(--gradient-hero);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+/* Map hover effects */
+.territory-path {
+  transition: all 0.2s ease-out;
+  cursor: pointer;
+}
+
+.territory-path:hover {
+  filter: brightness(1.1);
+  transform-origin: center;
+}
+
+/* Radar chart custom styles */
+.recharts-polar-grid-angle line {
+  stroke: hsl(var(--border));
+}
+
+.recharts-polar-grid-concentric circle {
+  stroke: hsl(var(--border));
+}
