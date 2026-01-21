@@ -88,7 +88,7 @@ def clean_and_prepare_df(df: pd.DataFrame) -> pd.DataFrame:
         SELECT 
             territoryid AS siren,
             sum(valeur) AS nb_aires_covoiturage
-        FROM df_nb_lieu_covoit
+        FROM df
         WHERE type_lieu = 'Aire de covoiturage'
         GROUP BY territoryid
         ),
