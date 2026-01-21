@@ -1,0 +1,1237 @@
+annee,lieu,valeur,territoryid
+2024,Bordeaux Métropole,68886.0,243300316
+2024,Brest Métropole,20089.0,242900314
+2024,CA Agglo du Pays de Dreux,16937.0,200040277
+2024,CA Agglomération d'Agen,11140.0,200096956
+2024,CA Agglo Pays d'Issoire,4065.0,200070407
+2024,CA Alès Agglomération,8322.0,200066918
+2024,CA Amiens Métropole,19058.0,248000531
+2024,CA Annemasse-Les Voirons-Agglomération,19314.0,200011773
+2024,CA Annonay Rhône Agglo,3046.0,200072015
+2024,CA Arche Agglo,6221.0,200073096
+2024,CA Ardenne Métropole,5168.0,200041630
+2024,CA Arlysère,25784.0,200068997
+2024,CA Bassin d'Arcachon Sud (COBAS),2618.0,243300563
+2024,"CA Beaune, Côte et Sud - Communauté Beaune-Chagny-Nolay",1508.0,200006682
+2024,CA Bergeracoise,619.0,200070647
+2024,CA Bourges Plus,7854.0,241800507
+2024,CA Cannes Pays de Lérins,36652.0,200039915
+2024,CA Carcassonne Agglo,19665.0,200035715
+2024,CA Caux Seine Agglo,20576.0,200010700
+2024,CA Chartres Métropole,12286.0,200033181
+2024,CA Châteauroux Métropole,3659.0,243600327
+2024,CA Chauny Tergnier La Fère,2022.0,200071785
+2024,CA Cholet Agglomération,70453.0,200071678
+2024,CA Clisson Sèvre et Maine Agglo,26384.0,200067635
+2024,CA Coeur de Flandre,6543.0,200040947
+2024,CA Coeur d'Essonne Agglomération,165506.0,200057859
+2024,CA Coeur d'Ostrevent,5304.0,245901152
+2024,CA Colmar Agglomération,16000.0,246800726
+2024,CA Communauté Paris-Saclay,235026.0,200056232
+2024,CA Concarneau Cornouaille Agglomération,2091.0,242900769
+2024,CA Coulommiers Pays de Brie,29034.0,200090504
+2024,CA Creil Sud Oise,15314.0,200068047
+2024,CA d'Arles-Crau-Camargue-Montagnette,9417.0,241300417
+2024,CA de Bar-le-Duc - Sud Meuse,3162.0,200033025
+2024,CA de Bastia,691.0,242000354
+2024,"CA de Béthune-Bruay, Artois-Lys Romane",132739.0,200072460
+2024,CA de Béziers-Méditerranée,13622.0,243400769
+2024,CA de Blois ''Agglopolys'',9721.0,200030385
+2024,CA de Cambrai,5984.0,200068500
+2024,CA de Castres Mazamet,2398.0,248100430
+2024,CA de Cergy-Pontoise,88617.0,249500109
+2024,CA de Châlons-en-Champagne,11250.0,200066876
+2024,CA de Chaumont,1914.0,200068658
+2024,CA de Forbach Porte de France,18960.0,245700372
+2024,CA de Haguenau,12928.0,200067874
+2024,CA de la Baie de Somme,1475.0,200070993
+2024,CA de l'Albigeois (C2A),30227.0,248100737
+2024,CA de la Porte du Hainaut,12913.0,200042190
+2024,CA de la Presqu'île de Guérande Atlantique (Cap Atlantique),19551.0,244400610
+2024,CA de la Provence Verte,9703.0,200068104
+2024,CA de la Région de Château-Thierry,4055.0,200072031
+2024,CA de la Région de Compiègne et de la Basse Automne,11088.0,200067965
+2024,CA de la Région Dieppoise,5854.0,247600786
+2024,CA de la Région Nazairienne et de l'Estuaire (CARENE),92906.0,244400644
+2024,CA de la Riviera Française,22121.0,240600551
+2024,CA de La Rochelle,93445.0,241700434
+2024,CA de l'Auxerrois,4999.0,200067114
+2024,CA de Lens - Liévin,151787.0,246200364
+2024,CA de l'Ouest Rhodanien,4151.0,200040566
+2024,CA de Nevers,1511.0,245804406
+2024,CA de Nîmes Métropole,26308.0,243000643
+2024,CA d'Epinal,10227.0,200068757
+2024,CA de Saint-Dié-des-Vosges,4207.0,200071066
+2024,CA de Saint Quentin en Yvelines,140721.0,200058782
+2024,CA des Deux Baies en Montreuillois,5403.0,200069029
+2024,CA de Sophia Antipolis,114564.0,240600585
+2024,CA des Sorgues du Comtat,7884.0,248400293
+2024,CA de Vesoul,3455.0,247000011
+2024,CA d'Hénin-Carvin,71766.0,246200299
+2024,CA Dinan Agglomération,6906.0,200068989
+2024,CA Douaisis Agglo,21935.0,200044618
+2024,CA Dracénie Provence Verdon Agglomération,6402.0,248300493
+2024,CA du Bassin d'Arcachon Nord (COBAN),3325.0,243301504
+2024,CA du Bassin d'Aurillac,1363.0,241500230
+2024,CA du Bassin de Bourg-en-Bresse,13277.0,200071751
+2024,CA du Bassin de Brive,4453.0,200043172
+2024,CA du Beauvaisis,135202.0,200067999
+2024,CA du Bocage Bressuirais,5173.0,200040244
+2024,CA du Boulonnais,9504.0,246200729
+2024,CA du Caudrésis et du Catésis,2213.0,200030633
+2024,CA du Cotentin,12154.0,200067205
+2024,CA du Gard Rhodanien,7008.0,200034692
+2024,CA du Grand Angoulême,9006.0,200071827
+2024,CA du Grand Annecy,148934.0,200066793
+2024,CA du Grand Avignon (COGA),29784.0,248400251
+2024,CA du Grand Cahors,778.0,200023737
+2024,CA du Grand Chambéry,62613.0,200069110
+2024,CA du Grand Cognac,3818.0,200070514
+2024,CA du Grand Dax,4286.0,244000675
+2024,CA du Grand Dole,1841.0,200010650
+2024,CA du Grand Guéret,1361.0,200034825
+2024,CA du Grand Saint-Dizier Der et Vallées,1525.0,200068666
+2024,CA du Grand Sénonais,3216.0,248900334
+2024,CA du Grand Verdun,1585.0,200049187
+2024,CA du Grand Villeneuvois,3240.0,200023307
+2024,CA du Libournais,5969.0,200070092
+2024,CA du Niortais,28580.0,200041317
+2024,CA du Pays Ajaccien,2117.0,242010056
+2024,CA du Pays Basque,74939.0,200067106
+2024,CA du Pays de Fontainebleau,18000.0,200072346
+2024,CA du Pays de Gex,16423.0,240100750
+2024,CA du Pays de Grasse,38057.0,200039857
+2024,CA du Pays de Landerneau-Daoulas,4934.0,242900801
+2024,CA du Pays de Laon,4554.0,200043495
+2024,CA du Pays de l'Or,34756.0,243400470
+2024,CA du Pays de Meaux,41039.0,200072130
+2024,CA du Pays de Saint-Gilles-Croix-de-Vie,13230.0,200023778
+2024,CA du Pays de Saint Malo Agglomération,7922.0,243500782
+2024,CA du Pays de Saint-Omer,5685.0,200069037
+2024,CA du Pays Voironnais,23907.0,243800984
+2024,CA du Puy-en-Velay,3547.0,200073419
+2024,CA Durance-Lubéron-Verdon Agglomération,9638.0,200034700
+2024,CA du Saint-Quentinois,3399.0,200071892
+2024,CA du Sicoval,17444.0,243100633
+2024,CA du Val de Fensch,4397.0,245701222
+2024,CA ECLA  (Espace Communautaire Lons Agglomération),2079.0,200071116
+2024,"CA Epernay, Coteaux et Plaine de Champagne",4981.0,200067684
+2024,CA Estérel Côte d'Azur Agglomération,13642.0,200035319
+2024,CA Étampois Sud Essonne,25863.0,200017846
+2024,CA Evreux Portes de Normandie,17527.0,200071454
+2024,CA Fécamp Caux Littoral Agglomération,2905.0,200069821
+2024,CA Flers Agglo,6197.0,200035814
+2024,CA Fougères Agglomération,10598.0,200072452
+2024,CA Gaillac-Graulhet,6477.0,200066124
+2024,CA Gap-Tallard-Durance,1632.0,200067825
+2024,CA Golfe du Morbihan - Vannes Agglomération,61158.0,200067932
+2024,CA Grand Auch Coeur de Gascogne,3016.0,200066926
+2024,CA Grand Belfort,29438.0,200069052
+2024,CA Grand Calais Terres et Mers,10619.0,200090751
+2024,CA Grand Châtellerault,8278.0,248600413
+2024,CA Grand Lac,45184.0,200068674
+2024,CA Grand Longwy Agglomération,1945.0,245400262
+2024,CA Grand Montauban,13725.0,248200099
+2024,CA Grand Paris Sud Seine Essonne Sénart,229904.0,200059228
+2024,CA GrandSoissons Agglomération,6459.0,240200477
+2024,CA Guingamp-Paimpol Agglomération de l'Armor à l'Argoat,6981.0,200067981
+2024,CA Haut-Bugey Agglomération,3595.0,200042935
+2024,CA Hérault-Méditerranée,9733.0,243400819
+2024,CA L'Agglo Foix-Varilhes,816.0,200067791
+2024,CA Lamballe Terre et Mer,3255.0,200069391
+2024,CA Lannion-Trégor Communauté,23807.0,200065928
+2024,CA La Roche-sur-Yon - Agglomération,112269.0,248500589
+2024,CA Laval Agglomération,86328.0,200083392
+2024,CA Le Grand Chalon,7044.0,247100589
+2024,CA Le Grand Narbonne,6468.0,241100593
+2024,CA Le Grand Périgueux,2522.0,200040392
+2024,CA Le Muretain Agglo,13435.0,200068641
+2024,CA Les Sables d'Olonne Agglomération,18329.0,200071165
+2024,CA Lisieux Normandie,3466.0,200069532
+2024,CA Loire Forez Agglomération (LFA),3137.0,200065886
+2024,CA Lorient Agglomération,20159.0,200042174
+2024,CA Luberon Monts de Vaucluse,6051.0,200040442
+2024,CA Lunel Agglo,15886.0,243400520
+2024,CA Mâconnais Beaujolais Agglomération,4103.0,200070308
+2024,CA Marne et Gondoire,51588.0,247700594
+2024,CA Maubeuge Val de Sambre,16794.0,200043396
+2024,CA Mauges Communauté,81861.0,200060010
+2024,CA Melun Val de Seine,55111.0,247700057
+2024,CA Montargoise et Rives du Loing (AME),3184.0,244500203
+2024,CA Mont de Marsan Agglomération,4583.0,244000808
+2024,CA Montélimar Agglomération,5973.0,200040459
+2024,CA Montluçon Communauté,939.0,200071082
+2024,CA Mont-Saint-Michel-Normandie,3982.0,200069425
+2024,CA Morlaix Communauté,2727.0,242900835
+2024,CA Moulins Communauté,1067.0,200071140
+2024,CA Mulhouse Alsace Agglomération,23514.0,200066009
+2024,CA Paris - Vallée de la Marne,89613.0,200057958
+2024,CA Pau Béarn Pyrénées,24361.0,200067254
+2024,CA Pays de Montbéliard Agglomération,22365.0,200065647
+2024,CA Plaine Vallée,27247.0,200056380
+2024,CA Pornic Agglo Pays de Retz,18662.0,200067346
+2024,CA Porte de l'Isère (CAPI),46672.0,243800604
+2024,CA Portes de France-Thionville,5925.0,245701362
+2024,CA Privas Centre Ardèche,4601.0,200071413
+2024,CA Provence-Alpes-Agglomération,1971.0,200067437
+2024,CA Quimper Bretagne Occidentale,7142.0,200068120
+2024,CA Quimperlé Communauté,3995.0,242900694
+2024,CA Rambouillet Territoires,35524.0,200073344
+2024,CA Redon Agglomération,4722.0,243500741
+2024,CA Riom Limagne et Volcans,12842.0,200070753
+2024,CA Roannais Agglomération,5516.0,200035731
+2024,CA Rochefort Océan,20854.0,200041762
+2024,CA Rodez Agglomération,3912.0,241200187
+2024,CA Roissy Pays de France,134427.0,200055655
+2024,CA Royan Atlantique,2527.0,241700640
+2024,CA Saint-Avold Synergie,5801.0,200067502
+2024,CA Saint-Brieuc Armor Agglomération,9034.0,200069409
+2024,"CA ""Saintes - Grandes Rives - L'Agglo""",3816.0,200036473
+2024,CA Saint Germain Boucles de Seine,54147.0,200058519
+2024,CA Saint-Lô Agglo,8109.0,200066389
+2024,CA Saint-Louis Agglomération,4346.0,200066058
+2024,CA Sarreguemines Confluences,42670.0,200070746
+2024,CA Saumur Val de Loire,21439.0,200071876
+2024,CA Seine-Eure,41964.0,200089456
+2024,CA Seine Normandie Agglomération,10694.0,200072312
+2024,CA Sète Agglopôle Méditerranée,24570.0,200066355
+2024,CA Sud Sainte Baume,4988.0,248300394
+2024,CA Tarbes-Lourdes-Pyrénées,24792.0,200069300
+2024,CA Terre de Provence,4323.0,200035087
+2024,CA Terres de Montaigu,43507.0,200070233
+2024,CA Territoires Vendômois,8531.0,200072072
+2024,CA Thonon Agglomération,15236.0,200067551
+2024,CA Troyes Champagne Métropole,52194.0,200069250
+2024,CA Tulle Agglo,1371.0,241927201
+2024,CA Val de Garonne Agglomération,1842.0,200030674
+2024,CA Val d'Europe Agglomération,45259.0,247700339
+2024,CA Val d'Yerres Val de Seine,36929.0,200058477
+2024,CA Valence Romans Agglo,32601.0,200068781
+2024,CA Valenciennes Métropole,30606.0,245901160
+2024,CA Val Parisis,57309.0,200058485
+2024,CA Ventoux-Comtat-Venaissin (COVE),6880.0,248400053
+2024,CA Versailles Grand Parc (CAVGP),101468.0,247800584
+2024,CA Vichy Communauté,1685.0,200071363
+2024,CA Vienne Condrieu,50663.0,200077014
+2024,CA Villefranche Beaujolais Saône,7008.0,200040590
+2024,CA Vitré Communauté,51854.0,200039022
+2024,CC Adour Madiran,636.0,200072106
+2024,CC Agly Fenouillèdes,26.0,246600423
+2024,CC Airvaudais-Val du Thouet,162.0,200041416
+2024,CC Albret Communauté,920.0,200068948
+2024,CC Alpes d'Azur,486.0,200039931
+2024,"CC Alpes-Provence-Verdon ""Sources de lumière""",146.0,200068625
+2024,CC Alsace Rhin Brisach,2857.0,200066025
+2024,CC Altitude 800,174.0,242504488
+2024,CC Ambert Livradois Forez,225.0,200070761
+2024,CC Amognes Coeur du Nivernais,34.0,200067908
+2024,CC Andaine - Passais,425.0,200068443
+2024,CC Anjou Bleu Communauté,15068.0,244900809
+2024,CC Anjou Loir et Sarthe,11042.0,200068955
+2024,"CC Arbois, Poligny, Salins, Coeur du Jura",782.0,200071595
+2024,CC Arc Sud Bretagne,5687.0,200027027
+2024,CC Ardèche des Sources et Volcans,187.0,200039824
+2024,CC Ardèche Rhône Coiron,3628.0,200071405
+2024,"CC Ardenne, Rives de Meuse",738.0,240800821
+2024,CC Ardennes Thiérache,83.0,200041622
+2024,CC Argonne-Meuse,212.0,200066116
+2024,CC Arize Lèze,161.0,200066223
+2024,CC Armagnac Adour,3.0,200035632
+2024,CC Arnon Boischaut Cher,316.0,200027076
+2024,CC Artagnan de Fezensac,130.0,243200607
+2024,CC Arve et Salève,3985.0,247400583
+2024,CC Astarac Arros en Gascogne,151.0,200035756
+2024,"CC Aubrac, Carladez et Viadène",199.0,200067171
+2024,CC Aubrac Lot Causses Tarn,725.0,200069268
+2024,CC Aunis Atlantique,22946.0,200041499
+2024,CC Aunis Sud,7530.0,200041614
+2024,CC Auray Quiberon Terre Atlantique,11763.0,200043123
+2024,CC Aure Louron,150.0,246500573
+2024,CC Autour de Chenonceaux Bléré-Val de Cher,1927.0,243700820
+2024,CC Auxonne Pontailler Val de Saône,743.0,200070902
+2024,CC Aux sources du Canal du Midi,805.0,243100567
+2024,CC Auzon Communauté,410.0,244301099
+2024,"CC Avallon, Vézelay, Morvan",176.0,200039758
+2024,CC Aveyron Bas Ségala Viaur,134.0,241200807
+2024,CC Avre Luce Noye,1225.0,200070969
+2024,CC Aygues-Ouvèze en Provence (CCAOP),1271.0,248400160
+2024,CC Bassée-Montois,2603.0,200040251
+2024,CC Bastides de Lomagne,200.0,200034726
+2024,CC Bastides et Vallons du Gers,37.0,243200508
+2024,CC Baud Communauté,835.0,200096675
+2024,CC Baugeois Vallée,14875.0,244900882
+2024,CC Bazois Loire Morvan,8.0,200067882
+2024,CC Beaucaire Terre d'Argence,3594.0,243000585
+2024,CC Beauce Val de Loire,939.0,200055481
+2024,CC Beaujolais Pierres Dorées,4210.0,200040574
+2024,CC Berg et Coiron,303.0,240700815
+2024,CC Berry Grand Sud,25.0,200049484
+2024,CC Berry Loire Puisaye,500.0,200068278
+2024,CC Berry-Loire-Vauvise,37.0,200032514
+2024,CC Bièvre Isère,6213.0,200059392
+2024,CC Billom Communauté,1982.0,200067627
+2024,CC Blavet Bellevue Océan,1098.0,245600440
+2024,CC Bouzonvillois-Trois Frontières,467.0,200067486
+2024,CC Bray-Eawy,3046.0,200070068
+2024,CC Brenne - Val de Creuse,381.0,243600319
+2024,CC Bresse et Saône,548.0,200071371
+2024,CC Bresse Haute Seille,577.0,200069615
+2024,CC Bresse Louhannaise Intercom',1203.0,200071579
+2024,CC Bresse Nord Intercom',21.0,247100647
+2024,CC Bresse Revermont 71,226.0,200042414
+2024,CC Bretagne Porte de Loire Communauté,2223.0,200070662
+2024,CC Bretagne Romantique,3062.0,243500733
+2024,CC Briance-Combade,27.0,248719338
+2024,CC Briance Sud Haute Vienne,623.0,200040814
+2024,CC Brie des Rivières et Châteaux,11587.0,200070779
+2024,CC Brie Nangissienne,10650.0,247700701
+2024,CC Brionnais Sud Bourgogne,242.0,200070548
+2024,CC Brioude Sud Auvergne,279.0,200085728
+2024,CC Brocéliande Communauté,1559.0,243500618
+2024,CC Bruyères-Vallons des Vosges,426.0,200042000
+2024,CC Buëch-Dévoluy,60.0,200067445
+2024,CC Bugey Sud,1705.0,200040350
+2024,CC Cagire Garonne Salat,84.0,200073146
+2024,CC Campagne-de-Caux,1351.0,247600505
+2024,CC Canaux et Forêts en Gâtinais,641.0,200067676
+2024,CC Cap Sizun - Pointe du Raz,88.0,242900629
+2024,CC Carmausin-Ségala,1783.0,200040905
+2024,CC Carnelle Pays-de-France,6868.0,200073013
+2024,CC Castelnaudary Lauragais Audois,2138.0,200035855
+2024,CC Castillon/Pujols,205.0,243301454
+2024,CC Causses Aigoual Cévennes,136.0,200034601
+2024,CC Causses et Vallée de la Dordogne,594.0,200066371
+2024,CC Caux - Austreberthe,9644.0,247600646
+2024,CC Cazals-Salviac,10.0,200035327
+2024,CC Celavu-Prunelli,429.0,242000503
+2024,CC Centre Morbihan Communauté,5307.0,200096683
+2024,CC Centre Tarn,375.0,200034049
+2024,CC Cère et Goul en Carladès,16.0,241501089
+2024,CC Chablis Villages et Terroirs,760.0,200067080
+2024,CC Chabris - Pays de Bazelle,77.0,243600202
+2024,CC Challans-Gois Communauté,18146.0,200071629
+2024,CC Chalosse Tursan,408.0,200069649
+2024,CC Champagne Boischauts,607.0,200068880
+2024,CC Champagnole Nozeroy Jura,445.0,200069623
+2024,CC Champsaur-Valgaudemar,145.0,200068096
+2024,CC Charlieu-Belmont,672.0,200035202
+2024,CC Châteaubriant-Derval,7877.0,200072726
+2024,CC Chavanon Combrailles et Volcans,466.0,200071215
+2024,"CC Chinon, Vienne et Loire",2854.0,200043081
+2024,CC Cingal-Suisse Normande,1233.0,200066710
+2024,CC Cluses-Arve et Montagnes,14202.0,200033116
+2024,CC Coeur Côte Fleurie,2948.0,241400415
+2024,CC Coeur d'Astarac en Gascogne,487.0,243200425
+2024,CC Coeur de Beauce,1618.0,200070159
+2024,CC Coeur de Berry,70.0,200070571
+2024,CC Coeur de Brenne,29.0,243600343
+2024,CC Coeur de Charente,727.0,200072023
+2024,CC Coeur de Chartreuse,2080.0,200040111
+2024,CC Coeur de France,244.0,200036135
+2024,CC Coeur de Garonne,1613.0,200068815
+2024,CC Coeur de l'Avesnois,1096.0,200043263
+2024,CC Coeur de Loire,682.0,200067916
+2024,CC Coeur de Lozère,2229.0,244800405
+2024,CC Coeur de Maurienne Arvan,1472.0,200070464
+2024,CC Coeur de Nacre,2268.0,241400860
+2024,CC Coeur de Saintonge,1189.0,241700517
+2024,CC Coeur de Savoie,19302.0,200041010
+2024,CC Coeur de Sologne,267.0,200000800
+2024,CC Coeur de Tarentaise,8112.0,200023299
+2024,CC Coeur du Pays Haut,767.0,200070290
+2024,CC Coeur du Perche,93.0,200068435
+2024,CC Coeur du Var,3535.0,248300550
+2024,CC Coeur d'Yvelines,16146.0,247800618
+2024,CC Coeur et Coteaux du Comminges,957.0,200072643
+2024,CC Coeur Haute Lande,208.0,200069656
+2024,CC Collines Isère Nord Communauté,2505.0,243801255
+2024,CC Combrailles Sioule et Morge,1216.0,200072098
+2024,CC Commentry Montmarault Néris Communauté,197.0,200071512
+2024,CC Communauté Lesneven Côte des Légendes,1867.0,242900793
+2024,CC Comtal Lot et Truyère,1854.0,200067478
+2024,CC Conflent-Canigó,391.0,200049211
+2024,CC Conques-Marcillac,184.0,241200641
+2024,CC Convergence Garonne,1426.0,200069581
+2024,CC Corbières Salanque Méditerranée,1423.0,200070365
+2024,CC Coteaux et Vallées des Luys,230.0,244000881
+2024,CC Côte d'Emeraude,1608.0,243500725
+2024,CC Côte Landes Nature,673.0,244000857
+2024,CC Côte Ouest Centre Manche,647.0,200067031
+2024,CC Côtes de Champagne et Val de Saulx,85.0,200067379
+2024,CC Côtes de Meuse Woëvre,121.0,200034874
+2024,CC Couesnon Marches de Bretagne,705.0,200070688
+2024,CC Couserans-Pyrénées,271.0,200067940
+2024,CC Coutances Mer et Bocage,2462.0,200067023
+2024,CC Creuse Confluence,217.0,200067544
+2024,CC Creuse Grand Sud,37.0,200044014
+2024,CC Creuse Sud Ouest,483.0,200067189
+2024,CC d'Aire-sur-l'Adour,323.0,200030435
+2024,"CC d'Arcis, Mailly, Ramerupt",747.0,200071777
+2024,CC d'Auberive Vingeanne et Montsaugeonnais,15.0,200027308
+2024,CC de Bayeux Intercom,1838.0,241400555
+2024,CC de Belle Ile en Mer,0.0,245600465
+2024,CC de Bénévent Grand Bourg,155.0,242320000
+2024,CC de Bièvre Est,1281.0,243801073
+2024,CC de Blaye,252.0,200023794
+2024,CC de Calvi Balagne,216.0,242020105
+2024,CC de Cattenom et Environs,2166.0,245700695
+2024,CC Decazeville Communauté,229.0,200067064
+2024,CC de Cèze Cévennes,290.0,200035129
+2024,CC de Charente Limousine,203.0,200072049
+2024,CC de Commercy - Void - Vaucouleurs,741.0,200066157
+2024,CC de Damvillers Spincourt,29.0,200066173
+2024,CC de Desvres-Samer,784.0,200018083
+2024,CC de Domme- Villefranche du Périgord,63.0,200041440
+2024,CC de Fium'Orbu Castellu,118.0,200033827
+2024,CC de Forez-Est,4416.0,200065894
+2024,CC de Freyming-Merlebach,5768.0,245700398
+2024,CC de Gâtine-Racan,1564.0,200073237
+2024,CC de Gémozac et de la Saintonge Viticole,158.0,241700632
+2024,CC de Gevrey-Chambertin et de Nuits-Saint-Georges,2027.0,200070894
+2024,"CC de Granville, Terre et Mer",1773.0,200042604
+2024,CC de Hanau-La Petite Pierre,775.0,200067783
+2024,CC de Haute Cornouaille,194.0,242900561
+2024,CC de Haute-Tarentaise,4777.0,247300254
+2024,CC de la Baie du Cotentin,1737.0,200042729
+2024,CC de la Basse-Zorn,1834.0,246700843
+2024,CC de la Beauce Loirétaine,3788.0,200035764
+2024,CC de la Brie Champenoise,205.0,245100888
+2024,CC de la Castagniccia-Casinca,78.0,200073252
+2024,CC de la Champagne Conlinoise et du Pays de Sillé,1717.0,200072718
+2024,CC de la Champagne Picarde,912.0,240200576
+2024,CC de la Châtaigneraie Cantalienne,1417.0,200066678
+2024,CC de la Châtre et Sainte-Sévère,150.0,243600350
+2024,"CC de la Cléry, du Betz et de l'Ouanne",491.0,200067668
+2024,CC de la Costa Verde,15.0,200034205
+2024,CC de la Côte d'Albâtre,4223.0,200069839
+2024,CC de la Côtière à Montluel,2533.0,240100610
+2024,CC de Lacq-Orthez,4066.0,200039204
+2024,CC de la Dombes,1886.0,200069193
+2024,CC de la Forêt,1162.0,244500484
+2024,CC de la Gascogne Toulousaine,3914.0,200023620
+2024,CC de l'Agglomération Migennoise,1267.0,248900383
+2024,CC de la Grande Vallée de la Marne,451.0,245100615
+2024,CC de la Haute Ariège,297.0,200066363
+2024,CC de la Haute-Bigorre,2301.0,246500482
+2024,CC de la Haute Comté,348.0,200041721
+2024,CC de la Haute Saintonge,1678.0,200041523
+2024,CC de la Haute Somme (Combles - Péronne - Roisel),1394.0,200037059
+2024,CC de la Haute Vallée de Chevreuse,6401.0,200033173
+2024,CC de l'Aillantais en Bourgogne,397.0,248900524
+2024,CC de l'Aire à l'Argonne,366.0,200066140
+2024,CC de l'Aire Cantilienne,10516.0,246000764
+2024,CC de la Lomagne Gersoise,1099.0,243200391
+2024,CC de la Lomagne Tarn-et-Garonnaise,390.0,248200065
+2024,CC de l'Alsace Bossue,2632.0,200067841
+2024,CC de l'Alta Rocca,118.0,242000495
+2024,CC de la Marche Berrichonne,0.0,200007052
+2024,CC de la Matheysine,439.0,200040657
+2024,CC de la Moivre à la Coole,198.0,200043438
+2024,CC de la Montagne Noire,121.0,200042463
+2024,CC de la Mossig et du Vignoble,3560.0,200068864
+2024,CC de la Muse et des Raspes du Tarn,6.0,241200914
+2024,CC de la Picardie Verte,18862.0,246000848
+2024,CC de la Pieve de l'Ornano et du Taravo,306.0,200038958
+2024,CC de la Plaine de l'Ain,42335.0,240100883
+2024,CC de la Plaine d'Estrées,2688.0,246000897
+2024,CC de la Plaine Dijonnaise,800.0,200000925
+2024,CC de la Plaine du Nord Loiret,286.0,244500542
+2024,CC de la Plaine du Rhin,933.0,200041283
+2024,CC de la Plaine Jurassienne,60.0,243901089
+2024,CC de la Porte des Vosges Méridionales,1476.0,200068377
+2024,CC de l'Arc Mosellan,1766.0,245701354
+2024,CC de la Région d'Audruicq,2716.0,246200844
+2024,CC de la Région de Bar sur Aube,138.0,241000405
+2024,CC de la Région de Guebwiller,2384.0,246800569
+2024,CC de la Région de Molsheim-Mutzig,11553.0,246701064
+2024,CC de la Région de Rambervillers,252.0,200005957
+2024,CC de la Région de Suippes,624.0,200042620
+2024,CC de l'Argonne Ardennaise,425.0,240800920
+2024,CC de l'Argonne Champenoise,347.0,200042703
+2024,CC de la Sologne des Etangs,62.0,244100780
+2024,CC de la Sologne des Rivières,240.0,244100806
+2024,CC de la Station des Rousses-Haut Jura,1222.0,243900354
+2024,CC de la Tenarèze,251.0,243200417
+2024,CC de la Terre des Deux Caps,1094.0,246200380
+2024,CC de la Thiérache du Centre,848.0,240200444
+2024,CC de la Vallée de Chamonix-Mont-Blanc,4706.0,200023372
+2024,CC de la Vallée de Kaysersberg,1586.0,246800551
+2024,CC de la Vallée de la Bruche,2233.0,246700306
+2024,CC de la Vallée de la Doller et du Soultzbach,974.0,246800676
+2024,CC de la Vallée de la Haute Sarthe,190.0,200035103
+2024,CC de la Vallée de l'Homme,97.0,200041168
+2024,CC de la Vallée de l'Oise et des Trois Forêts,7933.0,249500455
+2024,CC de la Vallée de Munster,401.0,246800585
+2024,CC de la Vallée de Saint-Amarin,65.0,246800205
+2024,CC de la Vallée de Villé,1007.0,246700777
+2024,CC de la Vallée d'Ossau,451.0,246400337
+2024,CC de la Vallée du Gapeau,2205.0,248300410
+2024,CC de la Vallée du Garon (CCVG),7667.0,246900757
+2024,CC de la Vallée du Lot et du Vignoble,39.0,244600433
+2024,CC de la Vallée Verte,285.0,247400047
+2024,CC de la Vanne et du Pays d'Othe,213.0,248900664
+2024,CC de la Veyle,762.0,200070555
+2024,CC de l'Ernée,9976.0,245300355
+2024,CC de l'Est de la Somme,402.0,200070985
+2024,CC de l'Est Lyonnais (CCEL),6876.0,246900575
+2024,CC de l'Estuaire,327.0,243300811
+2024,CC de Lévézou Pareloup,27.0,241200765
+2024,CC de l'Ile de Noirmoutier,1192.0,248500191
+2024,CC de l'Ile de Ré,1996.0,241700459
+2024,CC de l'Ile d'Oléron,561.0,241700624
+2024,CC de l'Ile-Rousse - Balagne,51.0,200073104
+2024,CC de l'Oisans,407.0,243800745
+2024,CC de l'Oise Picarde,10323.0,200068005
+2024,CC de Londinières,65.0,247600604
+2024,CC de l'Oriente,122.0,200015162
+2024,CC de l'Orvin et de l'Ardusson,424.0,241000488
+2024,CC de l'Ouest Vosgien,308.0,200068559
+2024,CC de l'Oust à Brocéliande,7872.0,200066785
+2024,CC de l'Outre-Forêt,529.0,200040178
+2024,CC de Marana-Golo,480.0,200036499
+2024,CC de Marcigny,149.0,247100639
+2024,CC de Millau Grands Causses,4657.0,241200567
+2024,CC de Mimizan,366.0,244000543
+2024,CC de Mirecourt Dompaire,804.0,200068369
+2024,CC de Miribel et du Plateau,3862.0,240100800
+2024,CC de Montaigne Montravel et Gurson,41.0,200034197
+2024,CC de Montesquieu,2325.0,243301264
+2024,CC de Noblat,58.0,248719361
+2024,CC de Nozay,7058.0,244400537
+2024,CC de Parthenay-Gâtine,1354.0,200041333
+2024,CC de Petite Camargue,7459.0,243000593
+2024,CC de Pont-Audemer / Val de Risle,2365.0,200065787
+2024,CC de Portes Sud Périgord,20.0,200040889
+2024,CC de Pouilly-en-Auxois / Bligny-sur-Ouche,574.0,200071207
+2024,CC de Puisaye-Forterre,624.0,200067130
+2024,CC d'Erdre et Gesvres,18962.0,244400503
+2024,CC des 1000 étangs,71.0,247000854
+2024,CC des 2 Vallées,9819.0,249100157
+2024,CC des 4B Sud Charente,787.0,200029734
+2024,CC des 7 Vallées,1006.0,200044030
+2024,CC de Saint-Flour,139.0,200066660
+2024,CC de Saint-Méen Montauban,1371.0,200038990
+2024,"CC des Albères, de la Côte Vermeille et de l'Illibéris",4365.0,200043602
+2024,CC des Aspres,1042.0,246600449
+2024,CC de Saulieu-Morvan,39.0,242101442
+2024,CC des Ballons des Hautes-Vosges,76.0,200033868
+2024,CC des Baronnies en Drôme Provençale,344.0,200068229
+2024,CC des Bastides Dordogne-Périgord,10.0,200034833
+2024,CC des Bastides en Haut Agenais Périgord,87.0,200036523
+2024,CC des Campagnes de l'Artois,1153.0,200069482
+2024,CC des Causses à l'Aubrac,241.0,200068484
+2024,CC des Cévennes au Mont Lozère,11.0,200069136
+2024,CC des Cévennes Gangeoises et Suménoises,2952.0,243400736
+2024,CC des Coëvrons,7324.0,200033298
+2024,CC des Collines du Perche,275.0,244100293
+2024,CC des Collines du Perche Normand,77.0,200071504
+2024,CC des Combes,64.0,247000367
+2024,CC des Coteaux Arrats Gimone,539.0,200042372
+2024,CC des Coteaux Bellevue,1609.0,243100815
+2024,CC des Coteaux du Girou,2368.0,243100732
+2024,CC des Coteaux du Val d'Arros,379.0,200070803
+2024,CC des Coteaux et Landes de Gascogne,308.0,244701355
+2024,CC des Crêtes Préardennaises,305.0,240800862
+2024,CC des Deux Morin,5393.0,200072544
+2024,CC des Deux Rives,1058.0,248200016
+2024,CC des Deux Vallées,1883.0,246000772
+2024,CC des Deux Vallées Vertes,604.0,200068294
+2024,CC de Seille et Grand Couronné,580.0,200070589
+2024,CC de Sélestat,9373.0,246700967
+2024,CC de Semur en Brionnais,133.0,247103864
+2024,CC de Sézanne-Sud Ouest Marnais,680.0,200066835
+2024,CC des Forêts du Perche,59.0,200069912
+2024,CC des Gorges de l'Ardèche,847.0,200039808
+2024,CC des Grands Lacs,982.0,244000873
+2024,CC des Hautes Terres de l'Aubrac,67.0,200069144
+2024,CC des Hautes Vosges,1139.0,200096634
+2024,CC des Hauts de Flandre,3405.0,200040954
+2024,CC des Hauts du Perche,42.0,200068856
+2024,CC des Hauts du Val de Saône,17.0,200036150
+2024,CC des Hauts-Tolosans,5027.0,200071314
+2024,CC des Lacs de Champagne,378.0,200040137
+2024,CC des Lacs et Montagnes du Haut-Doubs,1345.0,200069565
+2024,CC des Landes d'Armagnac,74.0,200035541
+2024,CC des Lisières de l'Oise,755.0,246000749
+2024,CC des Loges,3896.0,244500427
+2024,CC des Luys en Béarn,1458.0,200067239
+2024,CC des Montagnes du Giffre,1434.0,200034098
+2024,CC des Monts d'Alban et du Villefranchois,546.0,200034031
+2024,CC des Monts de Gy,175.0,247000698
+2024,CC des Monts du Lyonnais,1856.0,200066587
+2024,CC des Monts du Pilat,265.0,244200622
+2024,CC des Paysages de la Champagne,472.0,200066850
+2024,CC des Pays de Cayres et de Pradelles,122.0,244301123
+2024,CC des Pays de L'Aigle,655.0,200068468
+2024,CC des Pays d'Oise et d'Halatte,3246.0,246000921
+2024,CC des Pays du Sel et du Vermois,2424.0,245400189
+2024,CC des Portes d'Ariège Pyrénées,1629.0,200066231
+2024,CC des Portes de la Thiérache,56.0,240200634
+2024,CC des Portes de l'Entre-Deux-Mers,991.0,243301439
+2024,CC des Portes de Meuse,526.0,200066108
+2024,CC des Portes de Romilly sur Seine,1965.0,200000545
+2024,CC des Portes de Rosheim,2392.0,246700744
+2024,CC des Portes de Sologne,1440.0,200005932
+2024,CC des Portes de Vassivière,106.0,248719353
+2024,CC des Portes du Haut-Doubs,5333.0,242504181
+2024,CC des Portes du Luxembourg,529.0,240800847
+2024,CC des Portes Euréliennes d'Ile de France,3737.0,200069953
+2024,CC des Quatre Rivières,3834.0,247400666
+2024,CC des Quatre Rivières,88.0,247000623
+2024,CC des Quatre Rivières en Bray,4213.0,200069730
+2024,CC des Quatre Vallées,760.0,244500419
+2024,CC des Rives du Haut Allier,79.0,200073393
+2024,CC des Sablons,25217.0,246000582
+2024,CC des Savoir-Faire,7.0,200070332
+2024,CC des Sources de l'Orne,336.0,200035111
+2024,CC des Sources du Lac d'Annecy,2786.0,247400773
+2024,CC des Sucs,1905.0,244301016
+2024,CC des Terres d'Apcher-Margeride-Aubrac,517.0,200069185
+2024,CC des Terres d'Auxois,153.0,200071017
+2024,CC des Terres du Lauragais,5064.0,200071298
+2024,CC des Terres du Val de Loire,4611.0,200070183
+2024,CC des Trois Forêts,48.0,245200597
+2024,CC des Trois Rivières,1036.0,240200600
+2024,CC des Vallées d'Aigueblanche,2752.0,247300015
+2024,CC des Vallées d'Auge et du Merlerault,398.0,200069458
+2024,CC des Vallées de la Braye et de l'Anille,1325.0,200072692
+2024,CC des Vallées de la Tille et de l'Ignon,155.0,242100154
+2024,CC des Vallées de Thônes,2668.0,247400617
+2024,CC des Vallées du Clain,1589.0,200043628
+2024,CC des Vallées du Haut-Anjou,19611.0,200071868
+2024,CC des Vallons du Lyonnais (CCVL),5530.0,246900724
+2024,CC des Vals d'Aix et Isable,66.0,244200614
+2024,CC des Villes Soeurs,699.0,247600588
+2024,CC des Vosges côté Sud Ouest,37.0,200068773
+2024,CC des Vosges du Sud,370.0,200069060
+2024,CC de Thann-Cernay,2320.0,200036465
+2024,CC de Vendeuvre-Soulaines,430.0,200066892
+2024,CC de Ventadour - Egletons - Monédières,225.0,241900133
+2024,CC de Vezouze en Piémont,93.0,200069433
+2024,CC de Vie et Boulogne,28630.0,200072882
+2024,CC de Villedieu Intercom,932.0,200043354
+2024,"CC de Vitry, Champagne et Der",1210.0,200034718
+2024,CC de Yenne,1809.0,247300262
+2024,CC Dieulefit-Bourdeaux,69.0,242600492
+2024,CC Dombes Saône Vallée,3246.0,200042497
+2024,CC Dômes Sancy Artense,442.0,200069169
+2024,CC Domfront Tinchebray Interco,500.0,200071520
+2024,CC Douarnenez Communauté,520.0,242900645
+2024,CC Drôme Sud Provence,3757.0,200042901
+2024,CC Dronne et Belle,300.0,200041572
+2024,CC du Barséquanais en Champagne,953.0,200069003
+2024,CC du Bas Armagnac,66.0,243200409
+2024,CC du Bassin Auterivain Haut-Garonnais,2810.0,200068807
+2024,CC du Bassin d'Aubenas,1449.0,200073245
+2024,CC du Bassin de Joinville en Champagne,129.0,200044253
+2024,CC du Bassin de Marennes,1189.0,241700699
+2024,CC du Bassin de Pompey,3882.0,245400601
+2024,CC du Bassin de Pont-à-Mousson,7141.0,200041515
+2024,CC du Bazadais,176.0,200043982
+2024,CC du Béarn des Gaves,390.0,200067288
+2024,CC du Bocage Bourbonnais,112.0,200071496
+2024,CC du Bocage Mayennais,6729.0,245300389
+2024,CC du Bonnevalais,424.0,242852465
+2024,CC du Briançonnais,415.0,240500439
+2024,CC du Canton de Charly-sur-Marne,180.0,240200584
+2024,CC du Canton de La Chambre,1143.0,247300361
+2024,CC du Canton d'Erstein,7154.0,200067924
+2024,CC du Canton d'Oulchy-le-Château,121.0,240200519
+2024,CC du Cap Corse,4.0,200042943
+2024,CC du Castelrenaudais,1820.0,243700499
+2024,CC du Causse de Labastide Murat,372.0,244600573
+2024,CC du Centre Corse,193.0,242020071
+2024,CC du Centre du Haut-Rhin,1299.0,246800445
+2024,CC du Chaourçois et du Val d'Armance,746.0,200071041
+2024,CC du Châtillonnais en Berry,15.0,200035848
+2024,CC du Chemin des Dames,519.0,240200592
+2024,CC du Civraisien en Poitou,598.0,200070035
+2024,CC du Clermontais,8413.0,243400355
+2024,CC du Clermontois,6541.0,246000376
+2024,CC du Clunisois,388.0,200040293
+2024,CC du Confluent et des Coteaux de Prayssas,262.0,200068922
+2024,CC du Cordais et du Causse (4 C),6.0,200034064
+2024,CC du Créonnais,527.0,243301215
+2024,CC du Crestois et de Pays de Saillans Coeur de Drôme,1537.0,200040509
+2024,CC du Diois,53.0,242600534
+2024,CC du District Urbain de Faulquemont (DUF),2164.0,245700133
+2024,CC du Doubs Baumois,800.0,242504447
+2024,CC du Fronsadais,452.0,243301397
+2024,CC du Frontonnais,5914.0,200034957
+2024,CC du Gâtinais en Bourgogne,496.0,248900748
+2024,CC du Genevois,21912.0,247400690
+2024,CC du Gévaudan,1346.0,244800470
+2024,CC du Golfe de Saint-Tropez,1294.0,200036077
+2024,CC du Grand Armagnac,879.0,243200458
+2024,CC du Grand Autunois Morvan,512.0,200070530
+2024,CC du Grand Chambord,809.0,244100798
+2024,CC du Grand Châteaudun,4015.0,200069961
+2024,CC du Grand Cubzaguais,3210.0,243301223
+2024,CC du Grand Langres,714.0,200072999
+2024,CC du Grand Pic Saint-Loup,24352.0,200022986
+2024,CC du Grand Pontarlier,3377.0,242500338
+2024,CC du Grand Roye,1601.0,200070977
+2024,CC du Grand Saint Emilionnais,153.0,200035533
+2024,CC du Guillestrois et du Queyras,155.0,200067452
+2024,CC du Haut Allier Margeride,134.0,200006930
+2024,CC du Haut Béarn,5446.0,200067262
+2024,CC du Haut Chablais,862.0,247400682
+2024,CC du Haut-Languedoc,56.0,200066553
+2024,CC du Haut Lignon,39.0,244301107
+2024,CC du Haut Pays Bigouden,354.0,242900710
+2024,CC du Haut Pays du Montreuillois,330.0,200069235
+2024,CC du Haut Poitou,3592.0,200069763
+2024,CC du Haut Val d'Oise,10044.0,249500489
+2024,CC du Haut Vallespir,93.0,246600548
+2024,CC du Jovinien,1098.0,248900938
+2024,CC du Kochersberg,3430.0,200034635
+2024,CC du Kreiz-Breizh (CCKB),175.0,242200715
+2024,CC du Lac d'Aiguebelette (CCLA),2326.0,247300668
+2024,CC du Lautrécois et du Pays d'Agout,101.0,200034056
+2024,CC du Liancourtois,3304.0,246000129
+2024,CC du Limouxin,1557.0,200071926
+2024,CC du Massif du Sancy,124.0,246300966
+2024,CC du Massif du Vercors,2300.0,243801024
+2024,CC du Minervois au Caroux,61.0,200066348
+2024,CC du Montbardois,72.0,242101491
+2024,CC du Mont des Avaloirs,1894.0,200042182
+2024,CC du Nivernais Bourbonnais,116.0,245804497
+2024,CC du Nogentais,2836.0,200006716
+2024,CC du Nord Est Béarn,2768.0,200067296
+2024,CC du Pays Arnay Liernais,16.0,200071173
+2024,CC du Pays Beaume-Drobie,251.0,240700302
+2024,CC du Pays Bigouden Sud,1116.0,242900702
+2024,CC du Pays Châtillonnais,77.0,242101434
+2024,CC du Pays d'Alésia et de la Seine,27.0,242101459
+2024,CC du Pays d'Ancenis,24869.0,244400552
+2024,CC du Pays de Barr,2404.0,200034270
+2024,CC du Pays de Bitche,3404.0,200069441
+2024,CC du Pays de Blain,4397.0,244400453
+2024,CC du Pays de Bray,5015.0,246000913
+2024,CC du Pays de Château-Gontier,20328.0,245300447
+2024,CC du Pays de Colombey et du Sud Toulois,290.0,245400510
+2024,CC du Pays de Conches,958.0,242700276
+2024,CC du Pays de Craon,9112.0,200048551
+2024,CC du Pays de Cruseilles,6902.0,247400112
+2024,CC du Pays de Dol et de la Baie du Mont Saint-Michel,613.0,200070670
+2024,CC du Pays de Duras,8.0,244700449
+2024,CC du Pays de Falaise,2236.0,241400514
+2024,CC du Pays de Fayence,5134.0,200004802
+2024,CC du Pays de Fénelon,119.0,200040830
+2024,CC du Pays de Fontenay-Vendée,4596.0,200071934
+2024,CC du Pays de Honfleur-Beuzeville,1680.0,200066827
+2024,CC du Pays de la Châtaigneraie,3584.0,248500415
+2024,CC du Pays de Lafrançaise,60.0,200067122
+2024,CC du Pays de Lalbenque-Limogne,43.0,244600532
+2024,CC du Pays de Lamastre,59.0,200016905
+2024,CC du Pays de Landivisiau,2084.0,242900751
+2024,CC du Pays de Lapalisse,146.0,240300491
+2024,CC du Pays de l'Arbresle (CCPA),5817.0,246900625
+2024,CC du Pays de la Serre,741.0,240200469
+2024,CC du Pays de Lauzun,65.0,244700464
+2024,CC du Pays de la Zorn,3926.0,246700959
+2024,CC du Pays de l'Huisne Sarthoise,4608.0,247200686
+2024,CC du Pays de Limours (CCPL),15155.0,249100074
+2024,CC du Pays de l'Ourcq,4932.0,247700065
+2024,CC du Pays de l'Ozon,5167.0,246900765
+2024,CC du Pays de Lubersac-Pompadour,102.0,200066603
+2024,CC du Pays de Lumbres,795.0,246201016
+2024,CC du Pays de Lure,722.0,247000664
+2024,CC du Pays de Luxeuil,1664.0,247000755
+2024,CC du Pays de Maîche,345.0,200023075
+2024,CC du Pays de Mauriac,61.0,241500271
+2024,CC du Pays de Meslay-Grez,3106.0,245300223
+2024,CC du Pays de Mirepoix,378.0,200044469
+2024,CC du Pays de Montbozon et du Chanois,71.0,200041853
+2024,CC du Pays de Montmédy,55.0,245501259
+2024,CC du Pays de Mormal,1834.0,200043321
+2024,CC du Pays de Mortagne,12948.0,248500662
+2024,CC du Pays de Mortagne-au-Perche,271.0,200036069
+2024,CC du Pays de Niederbronn-les-Bains,2409.0,246701098
+2024,CC du Pays de Phalsbourg,4298.0,245700950
+2024,CC du Pays de Pontchâteau St-Gildas-des-Bois,16139.0,200000438
+2024,CC du Pays de Pouzauges,12472.0,248500464
+2024,CC du Pays de Revigny-sur-Ornain,204.0,245501184
+2024,CC du Pays de Ribeauvillé,1631.0,246800577
+2024,"CC du Pays de Rouffach, Vignobles et Châteaux",969.0,246800494
+2024,CC du Pays des Abers,1799.0,242900553
+2024,CC du Pays des Achards,7768.0,248500530
+2024,CC du Pays de Saint Aulaye,124.0,242400935
+2024,CC du Pays de Saint-Eloy,277.0,200072080
+2024,CC du Pays de Sainte-Odile,11286.0,246701080
+2024,CC du Pays de Saint-Fulgent - Les Essarts,24433.0,200071918
+2024,CC du Pays de Saint Yrieix,299.0,248700189
+2024,CC du Pays de Salars,158.0,241200658
+2024,CC du Pays de Salers,48.0,241501139
+2024,CC du Pays de Sancey-Belleherbe,6.0,242504371
+2024,CC du Pays de Saverne,4114.0,200068112
+2024,CC du Pays des Ecrins,41.0,240500462
+2024,CC du Pays de Serres en Quercy,37.0,200040418
+2024,CC du Pays des Herbiers,32466.0,248500621
+2024,CC du Pays de Sommières,3928.0,243000296
+2024,CC du Pays des Paillons,2802.0,240600593
+2024,CC du Pays des Sorgues et des Monts de Vaucluse,3736.0,248400319
+2024,CC du Pays des Sources,803.0,246000855
+2024,CC du Pays de Stenay et du Val Dunois,231.0,200066132
+2024,CC du Pays d'Étain,549.0,245501242
+2024,CC du Pays de Tarascon,133.0,240900431
+2024,CC du Pays de Trie et du Magnoac,7.0,200070795
+2024,CC du Pays de Tronçais,12.0,240300558
+2024,CC du Pays de Valois,6661.0,246000871
+2024,CC du Pays de Villeneuve en Armagnac Landais,60.0,244000774
+2024,CC du Pays de Villersexel,275.0,247000714
+2024,CC du Pays de Wissembourg,414.0,246700926
+2024,CC du Pays d'Héricourt,905.0,247000722
+2024,CC du Pays d'Huriel,32.0,240300657
+2024,CC du Pays d'Iroise,2438.0,242900074
+2024,CC du Pays d'Issoudun,1924.0,243600236
+2024,CC du Pays d'Olmes,238.0,240900464
+2024,CC du Pays d'Othe,1069.0,241000447
+2024,CC du Pays du Coquelicot,1406.0,248000747
+2024,CC du Pays du Neubourg,2157.0,242700607
+2024,CC du Pays Dunois,185.0,242320109
+2024,CC du Pays d'Urfé,47.0,244200820
+2024,CC du Pays du Saintois,289.0,200035772
+2024,CC du Pays du Sanon,89.0,245400759
+2024,CC du Pays du Vermandois,509.0,240200493
+2024,CC du Pays d'Uzerche,392.0,241927243
+2024,CC du Pays Entre Loire et Rhône,536.0,244200630
+2024,CC du Pays Fertois et du Bocage Carrougien,26.0,200071652
+2024,CC du Pays Fléchois,9180.0,247200348
+2024,CC du Pays Fouesnantais,648.0,242900660
+2024,CC du Pays Foyen,104.0,243301371
+2024,CC du Pays Gentiane,8.0,241500255
+2024,CC du Pays Grenadois,182.0,244000824
+2024,CC du Pays Haut Val d'Alzette,996.0,245701404
+2024,CC du Pays Houdanais (CCPH),10077.0,247800550
+2024,CC du Pays Loudunais,762.0,248600447
+2024,CC du Pays Morcenais,132.0,244000691
+2024,CC du Pays Mornantais (COPAMO),3126.0,246900740
+2024,CC du Pays Noyonnais,1736.0,246000756
+2024,CC du Pays Orne Moselle,3380.0,245701271
+2024,CC du Pays Rethélois,1516.0,200043156
+2024,CC du Pays Rhénan,4623.0,200041325
+2024,CC du Pays Rignacois,494.0,241200625
+2024,CC du Pays Riolais,566.0,247000706
+2024,CC du Pays Rochois,14313.0,247400724
+2024,CC du Pays Sabolien,8838.0,247200090
+2024,CC du Pays Solesmois,356.0,245901038
+2024,CC du Pays Sostranien,419.0,242300135
+2024,CC du Pays Tarusate,1946.0,244000766
+2024,CC du Pays Viganais,240.0,243000270
+2024,CC du Perche,349.0,200006971
+2024,CC du Perche et Haut Vendômois,993.0,200040772
+2024,CC du Périgord Nontronnais,246.0,200071819
+2024,CC du Périgord Ribéracois,104.0,200040400
+2024,CC du Piémont Cévenol,2420.0,200034411
+2024,CC du Pilat Rhodanien,2239.0,244200895
+2024,CC du Pithiverais,3267.0,200066280
+2024,CC du Pithiverais-Gâtinais,1091.0,200071850
+2024,CC du Plateau de Frasne et du Val de Drugeon,116.0,242504496
+2024,CC du Plateau de Lannemezan,388.0,200070787
+2024,CC du Plateau de Montbazens,165.0,241200674
+2024,CC du Plateau de Russey,115.0,242504355
+2024,CC du Plateau Picard,2571.0,246000566
+2024,CC du Pont du Gard,1688.0,243000684
+2024,CC du Provinois,9867.0,200037133
+2024,CC du Quercy Blanc,72.0,200039519
+2024,CC du Quercy Caussadais,1129.0,248200057
+2024,CC du Quercy Rouergue et des Gorges de l'Aveyron,77.0,248200107
+2024,CC du Réolais en Sud Gironde,202.0,200044394
+2024,CC du Réquistanais,13.0,241200542
+2024,CC du Rhône aux Gorges de l'Ardèche,1111.0,240700864
+2024,CC du Ried de Marckolsheim,1182.0,200030526
+2024,CC du Romorantinais et du Monestois,1195.0,200018406
+2024,CC du Rouillacais,203.0,241600303
+2024,CC du Royans-Vercors,245.0,200067767
+2024,CC du Sammiellois,145.0,245500327
+2024,CC du Sartenais Valinco Taravo,92.0,242010130
+2024,CC du Saulnois,1079.0,245701206
+2024,CC du Saves,484.0,243200599
+2024,CC du Seignanx,4765.0,244000659
+2024,CC du Serein,29.0,200039709
+2024,CC du Sisteronais-Buëch,779.0,200068765
+2024,CC du Sor et de l'Agout,725.0,248100158
+2024,CC du Sud Artois,736.0,200035442
+2024,CC du Sud Avesnois,1157.0,200043404
+2024,CC du Sud Corse,368.0,200040764
+2024,CC du Sud Est Manceau,1993.0,247200421
+2024,CC du Sud Estuaire,11657.0,244400586
+2024,CC du Sud Gironde,1244.0,200043974
+2024,CC du Sud Marnais,225.0,245100979
+2024,CC du Sud Messin,835.0,200039907
+2024,CC du Sud Territoire,1024.0,249000241
+2024,CC du Ternois,1322.0,200069672
+2024,CC du Territoire de Fresnes-en-Woëvre,32.0,245501176
+2024,CC du Territoire de Lunéville à Baccarat,2033.0,200070324
+2024,CC du Territoire Nord Picardie,597.0,200070951
+2024,CC du Thouarsais,1486.0,247900798
+2024,CC du Triangle Vert,109.0,200041861
+2024,CC du Trièves,513.0,200030658
+2024,CC du Val d'Amboise,2830.0,200043065
+2024,CC du Val d'Amour,15.0,243900420
+2024,CC du Val d'Argent,4332.0,246800395
+2024,CC du Val d'Ay,302.0,240700716
+2024,CC du Val de Bouzanne,195.0,200018521
+2024,CC du Val de Cher,28.0,240300566
+2024,CC du Val de Drôme en Biovallée,2490.0,242600252
+2024,CC du Val de l'Aisne,1030.0,240200501
+2024,CC du Val de l'Eyre,1332.0,243301405
+2024,CC du Val de l'Oise,252.0,200040426
+2024,CC du Val de Morteau,2881.0,242504116
+2024,CC du Val de Sarthe,5274.0,247200629
+2024,CC du Val de Somme,966.0,248000499
+2024,CC du Val d'Essonne (CCVE),29739.0,249100546
+2024,CC du Val de Sully,2325.0,200070100
+2024,CC du Val de Vienne,485.0,248719288
+2024,CC du Val d'Orne,24.0,246100390
+2024,CC du Vallespir,2182.0,246600373
+2024,CC du Val Marnaysien,381.0,200041887
+2024,CC du Vexin Normand,2616.0,200071843
+2024,CC du Vexin-Thelle,2249.0,246000707
+2024,CC du Vexin-Val de Seine,6154.0,249500513
+2024,CC du Vimeu,335.0,200070944
+2024,CC du Volvestre,4033.0,200066819
+2024,CC du Warndt,861.0,245701164
+2024,CC Écueillé-Valençay,153.0,200040558
+2024,CC Éguzon - Argenton - Vallée de la Creuse,528.0,200068872
+2024,CC Élan Limousin Avenir Nature,779.0,200066512
+2024,CC Enclave des Papes - Pays de Grignan,212.0,200040681
+2024,CC Entr'Allier Besbre et Loire,427.0,200071470
+2024,"CC Entre Arroux, Loire et Somme",400.0,200070316
+2024,CC Entre Beauce et Perche,508.0,200058360
+2024,CC Entre Bièvre et Rhône,12773.0,200085751
+2024,CC Entre Dore et Allier,2182.0,246301097
+2024,CC Entre Doubs et Loue,280.0,242500320
+2024,CC Entre Juine et Renarde (CCEJR),12653.0,249100553
+2024,CC Entre Saône et Grosne,157.0,247103765
+2024,CC Estuaire et Sillon,19815.0,200072734
+2024,CC Falaises du Talou,1260.0,247600729
+2024,CC Faucigny - Glières,17100.0,200000172
+2024,CC FerCher,438.0,241800457
+2024,CC Fier et Usses,2851.0,247400567
+2024,CC Flandre Lys,2813.0,245900758
+2024,"CC Forêts, Lacs, Terres en Champagne",1176.0,241000223
+2024,"CC Forêts, Seine et Suzon",136.0,200039063
+2024,CC Fumel Vallée du Lot,186.0,200068930
+2024,CC Gally Mauldre,3101.0,200034130
+2024,CC Gartempe - Saint Pardoux,42.0,248719262
+2024,CC Gâtinais Val de Loing,3227.0,200023919
+2024,CC Gérardmer Hautes Vosges,941.0,200096642
+2024,CC Giennoises,1462.0,244500211
+2024,CC Gorges Causses Cévennes,369.0,200069151
+2024,CC Grand-Figeac,3606.0,200067361
+2024,CC Grand Lieu Communauté,16855.0,244400438
+2024,CC Grand Orb Communauté de Communes en Languedoc,1321.0,200042646
+2024,CC Grand Sud Tarn-et-Garonne,9227.0,200066652
+2024,CC Haut Chemin - Pays de Pange,927.0,200067957
+2024,CC Haute-Corrèze Communauté,1754.0,200066744
+2024,CC Haute Maurienne Vanoise,5135.0,200070340
+2024,CC Haute-Provence - Pays de Banon,85.0,200071025
+2024,CC Haute Sarthe Alpes Mancelles,892.0,200072700
+2024,CC Hautes Terres,199.0,200066637
+2024,CC Haut-Jura Arcade Communauté,345.0,243900479
+2024,CC Haut-Jura Saint-Claude,451.0,200026573
+2024,CC Haut-Léon Communauté,814.0,200067072
+2024,CC Haut Limousin en Marche,300.0,200071942
+2024,CC Haut Nivernais - Val d'Yonne,83.0,200067429
+2024,CC Haut Pays du Velay,213.0,244300307
+2024,CC Haut Val de Sèvre,6773.0,200041994
+2024,CC Houve - Pays Boulageois,2384.0,200067650
+2024,CC Inter-Caux-Vexin,25748.0,200070449
+2024,CC Intercom Bernay Terres de Normandie,1508.0,200066413
+2024,CC Intercom de la Vire au Noireau,4231.0,200068799
+2024,CC Interco Normandie Sud Eure,1595.0,200066462
+2024,CC Interrégionale Aumale - Blangy-sur-Bresle,492.0,200069722
+2024,CC Isigny-Omaha Intercom,825.0,200066801
+2024,CC Isle Double Landais,329.0,200040384
+2024,CC Isle et Crempse en Périgord,172.0,200069094
+2024,CC Isle-Loue-Auvézère en Périgord,83.0,242401024
+2024,CC Isle Vern Salembre en Périgord,155.0,200040095
+2024,CC Jabron-Lure-Vançon-Durance,171.0,200071033
+2024,CC Jalle-Eau-Bourde,3453.0,243301165
+2024,CC Jura Nord,562.0,243900560
+2024,CC Lacs et Gorges du Verdon,103.0,200040210
+2024,CC la Domitienne,2369.0,243400488
+2024,CC la Grandvallière,148.0,243900610
+2024,CC La Rochefoucauld Porte du Périgord,374.0,200068914
+2024,CC Larzac et Vallées,3322.0,241200906
+2024,CC la Septaine,414.0,241800374
+2024,CC Latitude Nord Gironde,1459.0,243301181
+2024,CC Lavalette Tude Dronne,108.0,200070282
+2024,CC LBN Communauté,3578.0,200040475
+2024,CC le Dourdannais en Hurepoix (CCDH),9431.0,249100595
+2024,CC le Dunois,228.0,241800424
+2024,CC Leff Armor Communauté,1847.0,200069086
+2024,CC Le Gesnois Bilurien,4309.0,200072684
+2024,CC Le Grand Charolais,1997.0,200071884
+2024,CC Le Grand Ouest Toulousain,7021.0,243100781
+2024,CC Le Grésivaudan,34379.0,200018166
+2024,CC Les Avant-Monts,2004.0,200071058
+2024,CC Les Balcons du Dauphiné,16500.0,200068542
+2024,CC Les Bertranges,635.0,200068088
+2024,CC les Coteaux Bordelais,887.0,243301355
+2024,CC Les Portes Briardes Entre Villes et Forêts,17207.0,200023125
+2024,CC Les Portes de l'Ile de France,6068.0,200071074
+2024,CC Les Rives de la Laurence,1535.0,243301249
+2024,CC les Trois Provinces,31.0,241800432
+2024,CC Les Vals du Dauphiné,6529.0,200068567
+2024,CC Les Versants d'Aime,4627.0,247300817
+2024,CC Le Tonnerrois en Bourgogne,95.0,200039642
+2024,CC Levroux Boischaut Champagne,136.0,243600293
+2024,CC Lieuvin Pays d'Auge,176.0,200066017
+2024,CC Liffré-Cormier Communauté,9605.0,243500774
+2024,CC Loches Sud Touraine,4020.0,200071587
+2024,CC Lodévois et Larzac,1742.0,200017341
+2024,CC Loire et Allier,91.0,245801063
+2024,CC Loire et Semène,1483.0,244301131
+2024,CC Loire Layon Aubance,28584.0,200071553
+2024,CC Loir-Lucé-Bercé,1689.0,200070373
+2024,CC l'Orée de la Brie,15623.0,247700644
+2024,CC Lot et Tolzac,139.0,244701405
+2024,CC Loudéac Communauté - Bretagne Centre,1603.0,200067460
+2024,CC Loue-Lison,1306.0,200068070
+2024,CC Lyon-Saint-Exupéry en Dauphiné,11159.0,243800935
+2024,CC Lyons Andelle,6178.0,200070142
+2024,CC Mâconnais - Tournugeois,598.0,200069698
+2024,CC Mad et Moselle,739.0,200070738
+2024,CC Maine Coeur de Sarthe,2353.0,200068963
+2024,CC Maine Saosnois,1433.0,200072676
+2024,CC Marche et Combraille en Aquitaine,25.0,200067593
+2024,CC Marche Occitane - Val d'Anglin,0.0,200035137
+2024,CC Marches du Velay-Rochebaron,2176.0,200073427
+2024,CC Maremne Adour Côte Sud,10264.0,244000865
+2024,CC Maurienne Galibier,1934.0,247300452
+2024,CC Mayenne Communauté,34778.0,200055887
+2024,CC Méditerranée Porte des Maures,2304.0,200027100
+2024,CC Médoc Atlantique,629.0,200070720
+2024,CC Médoc Coeur de Presqu'île,575.0,200069995
+2024,CC Médoc Estuaire,914.0,243301447
+2024,CC Médullienne,1488.0,243301389
+2024,CC Mellois en Poitou,3158.0,200069755
+2024,CC Meurthe Mortagne Moselle,392.0,200067643
+2024,CC Meuse Rognon,24.0,200069664
+2024,CC Mézenc-Loire-Meygal,164.0,200073401
+2024,CC Midi Corrézien,127.0,200066769
+2024,CC Mirebellois et Fontenois,557.0,200072825
+2024,CC Mond'Arverne Communauté,5179.0,200069177
+2024,CC Montagne d'Ardèche,8.0,200072007
+2024,CC Montfort Communauté,1157.0,243500550
+2024,CC Mont Lozère,389.0,200069128
+2024,CC Monts d'Arrée Communauté,189.0,200067197
+2024,"CC Monts, Rance et Rougier",218.0,200067163
+2024,CC Moret Seine et Loing,6405.0,247700032
+2024,CC Morvan Sommets et Grands Lacs,129.0,200067890
+2024,CC Moselle et Madon,1592.0,245400171
+2024,CC Nebbiu - Conca d'Oro,34.0,200073120
+2024,CC Neste Barousse,6.0,200070829
+2024,CC Nièvre et Somme,1424.0,200071223
+2024,CC Norge et Tille,608.0,200069540
+2024,CC Normandie-Cabourg-Pays d'Auge,1992.0,200065563
+2024,CC Océan Marais de Monts,4576.0,248500258
+2024,CC Orée de Bercé - Belinois,3839.0,247200447
+2024,CC Orne Lorraine Confluences,2877.0,200070845
+2024,CC Osartis Marquion,2936.0,200044048
+2024,CC Ouche et Montagne,789.0,200039055
+2024,CC Ouest Aveyron Communauté,557.0,200069383
+2024,CC Ouest Limousin,47.0,200066520
+2024,CC Pasquale Paoli,68.0,200073138
+2024,CC Pays d'Apt-Luberon,691.0,200040624
+2024,CC Pays de Chantonnay,13919.0,248500340
+2024,CC Pays de Châteaugiron Communauté,9694.0,243500659
+2024,CC Pays de Montereau,13755.0,247700107
+2024,CC Pays de Nay,4584.0,246401756
+2024,CC Pays de Nemours,6067.0,200023240
+2024,CC Pays de Nérondes,123.0,200007177
+2024,CC Pays de Nexon Monts de Chalus,169.0,200070506
+2024,CC Pays des Vans en Cévennes,109.0,200039832
+2024,CC Pays d'Evian Vallée d'Abondance,17551.0,200071967
+2024,CC Pays d'Opale,1143.0,200072478
+2024,CC Pays d'Orange en Provence,3691.0,248400236
+2024,CC Pays d'Orthe et Arrigans,1876.0,200069417
+2024,CC Pays du Mont-Blanc,15905.0,200034882
+2024,CC Pays d'Uzès,1127.0,200034379
+2024,CC Pays Forcalquier et Montagne de Lure,153.0,240400440
+2024,CC Pays Fort Sancerrois Val de Loire,394.0,200069227
+2024,CC Pays Ségali Communauté,907.0,200068831
+2024,CC Périgord-Limousin,63.0,242400752
+2024,CC Perthois-Bocage et Der,85.0,200042992
+2024,CC Pévèle-Carembault,6363.0,200041960
+2024,CC Picardie des Châteaux,313.0,200071769
+2024,CC Piège Lauragais Malepère,885.0,200035707
+2024,CC Plaine Limagne,1241.0,200071199
+2024,CC Plaines et Monts de France,5350.0,200033090
+2024,CC Plateau de Caux,1380.0,200069847
+2024,CC Pleyben-Châteaulin-Porzay,1346.0,200067247
+2024,CC Ploërmel Communauté,5001.0,200066777
+2024,CC Poher Communauté,431.0,242900744
+2024,CC Ponthieu-Marquenterre,441.0,200070936
+2024,CC Pontivy Communauté,2623.0,245614433
+2024,CC Porte de Dromardèche,14989.0,200040491
+2024,CC Porte de Maurienne,1881.0,247300676
+2024,CC Porte du Jura,115.0,200072056
+2024,CC Porte Océane du Limousin,1790.0,200059400
+2024,CC Portes de la Creuse en Marche,4.0,200041556
+2024,CC Portes du Berry entre Loire et Val d'Aubois,20.0,200011781
+2024,CC Pré-Bocage Intercom,2114.0,200069524
+2024,CC Presqu'île de Crozon-Aulne maritime,769.0,200066868
+2024,CC Provence Verdon,768.0,200040202
+2024,CC Pyrénées audoises,73.0,200043776
+2024,CC Pyrénées Catalanes,117.0,246600464
+2024,CC Pyrénées Cerdagne,437.0,246600399
+2024,CC Pyrénées Haut Garonnaises,1119.0,200072635
+2024,CC Pyrénées Vallées des Gaves,2595.0,200070811
+2024,CC Quercy - Bouriane,41.0,244600482
+2024,CC Quercy Vert-Aveyron,442.0,200066884
+2024,CC Questembert Communauté,2456.0,245614383
+2024,CC Rahin et Chérimont,118.0,247000821
+2024,CC Randon - Margeride,159.0,200069102
+2024,"CC Région Lézignanaise, Corbières et Minervois",1170.0,200035863
+2024,CC Retz en Valois,1302.0,200071991
+2024,CC Rhône Crussol,2145.0,200041366
+2024,CC Rhône Lez Provence,1578.0,200000628
+2024,"CC Rhony, Vistre, Vidourle",8336.0,243000569
+2024,CC Rives de l'Ain - Pays du Cerdon,1524.0,200029999
+2024,CC Rives de Moselle,6556.0,200039949
+2024,CC Rives de Saône,359.0,242101509
+2024,CC Roche aux Fées Communauté,2890.0,243500634
+2024,CC Roi Morvan Communauté,563.0,245614417
+2024,CC Roumois Seine,13920.0,200066405
+2024,CC Roussillon-Conflent,1023.0,246600415
+2024,CC Rumilly Terre de Savoie,4957.0,247400740
+2024,CC Rurales de l'Entre-Deux-Mers,192.0,200069599
+2024,"CC Saint Affricain, Roquefort, Sept Vallons",927.0,200067155
+2024,CC Saint Cyr Mère Boitier entre Charolais et Mâconnais,114.0,200071645
+2024,CC Saint-Marcellin Vercors Isère Communauté,2254.0,200070431
+2024,CC Saint-Pourçain Sioule Limagne,1211.0,200071389
+2024,CC Saône-Beaujolais,2579.0,200067817
+2024,CC Saône Doubs Bresse,289.0,200040038
+2024,CC Sarlat-Périgord Noir,317.0,200027217
+2024,CC Sarrebourg Moselle Sud,2732.0,200068146
+2024,CC Sauer-Pechelbronn,375.0,200013050
+2024,CC Sauldre et Sologne,323.0,200000933
+2024,CC Sausseron Impressionnistes,3205.0,249500430
+2024,CC Seine et Aube,766.0,200070126
+2024,CC Senlis Sud Oise,7470.0,200066975
+2024,CC Serein et Armance,938.0,200067304
+2024,CC Serre-Ponçon,778.0,200067742
+2024,CC Serre-Ponçon Val d'Avance,63.0,200067320
+2024,CC Seulles Terre et Mer,613.0,200069516
+2024,CC Sèvre et Loire,14929.0,200067866
+2024,CC Sidobre Vals et Plateaux,107.0,200066561
+2024,CC Somme Sud-Ouest,1885.0,200071181
+2024,CC Spelunca-Liamone,33.0,200067049
+2024,CC Sud Alsace Largue,544.0,200066033
+2024,CC Sud Côte Chalonnaise,93.0,247104094
+2024,CC Sud-Hérault,1081.0,200042653
+2024,CC Sud Nivernais,137.0,200067700
+2024,CC Sud Retz Atlantique,8594.0,200071546
+2024,CC Sud-Roussillon,1327.0,246600282
+2024,CC Sud Sarthe,1544.0,200073112
+2024,CC Sud Vendée Littoral,15135.0,200073260
+2024,CC Sumène - Artense,47.0,241501055
+2024,CC Sundgau,1594.0,200066041
+2024,CC Tannay-Brinon-Corbigny,11.0,200067692
+2024,CC Tarn-Agout,5437.0,200034023
+2024,CC Terrassonnais Haut Périgord Noir,459.0,200041150
+2024,CC Terre d'Auge,763.0,241400878
+2024,CC Terre d'Eau,437.0,200068682
+2024,CC Terre de Camargue,4330.0,243000650
+2024,CC Terre d'Émeraude Communauté,480.0,200090579
+2024,CC Terre de Picardie,894.0,200070928
+2024,CC Terre Lorraine du Longuyonnais,36.0,200043693
+2024,CC Terres d'Argentan Interco,1735.0,200068450
+2024,CC Terres de Bresse,388.0,200071538
+2024,CC Terres de Chalosse,326.0,200069631
+2024,CC Terres de Perche,117.0,200070167
+2024,CC Terres de Saône,400.0,200041879
+2024,CC Terres des Confluences,6720.0,200066322
+2024,CC Terres du Haut Berry,550.0,200066330
+2024,CC Terres Touloises,5196.0,200070563
+2024,CC Terre Valserhône (CCTV),8016.0,240100891
+2024,CC Territoriale Sud-Luberon,1726.0,248400285
+2024,CC Terroir de Caux,3867.0,200068534
+2024,CC Thelloise,10200.0,200067973
+2024,CC Thiérache Sambre et Oise,321.0,200071983
+2024,CC Thiers Dore et Montagne,1267.0,200070712
+2024,CC Thoré Montagne Noire,86.0,248100745
+2024,CC Tille et Venelle,24.0,200070910
+2024,CC Touraine-Est Vallées,5252.0,200073161
+2024,CC Touraine Ouest Val de Loire,1980.0,200072981
+2024,CC Touraine Val de Vienne,1703.0,200072668
+2024,CC Touraine Vallée de l'Indre,7780.0,200072650
+2024,CC Usses et Rhône,2860.0,200070852
+2024,CC Vaison Ventoux,472.0,248400335
+2024,CC Val 81,42.0,248100497
+2024,CC Val'Aïgo,958.0,243100773
+2024,CC Val Briard,12598.0,200072874
+2024,CC Val de Charente,146.0,200043016
+2024,CC Val-de-Cher-Controis,2745.0,200072064
+2024,CC Val de Gâtine,1432.0,200069748
+2024,CC Val de Gers,232.0,200072320
+2024,CC Val de Gray,1145.0,200036549
+2024,CC Val de Ligne,73.0,240700617
+2024,CC Val de l'Indre - Brenne,132.0,243600301
+2024,CC Val de Meuse - Voie Sacrée,384.0,200066165
+2024,CC Val de Saône Centre,568.0,200070118
+2024,CC Val d'Ille-Aubigné,3309.0,243500667
+2024,CC Val ès Dunes,658.0,200065589
+2024,CC Val Eyrieux,41.0,200041465
+2024,CC Val Guiers,3306.0,247300528
+2024,CC Vallée de la Dordogne et Forêt Bessède,0.0,200041051
+2024,CC Vallée de l'Hérault,23721.0,243400694
+2024,CC Vallée de l'Ubaye - Serre-Ponçon,9.0,200072304
+2024,CC Vallée des Baux-Alpilles (CC VBA),618.0,241300375
+2024,CC Vallées de l'Orne et de l'Odon,1518.0,200066728
+2024,CC Vallées et Plateau d'Ardenne,692.0,200067759
+2024,CC Vallons de Haute-Bretagne Communauté,2429.0,200043990
+2024,CC Vals de Saintonge Communauté,1702.0,200041689
+2024,CC Val Vanoise,2668.0,200040798
+2024,CC Vendée Grand Littoral,9377.0,200071900
+2024,"CC Vendée, Sèvre, Autise",1661.0,248500563
+2024,CC Ventoux Sud,320.0,200035723
+2024,CC Vexin Centre,6275.0,200035970
+2024,CC Vézère-Monédières-Millesources,29.0,200066645
+2024,CC Vienne et Gartempe,1253.0,200070043
+2024,CC Vierzon-Sologne-Berry,1245.0,200090561
+2024,CC Xaintrie Val'Dordogne,95.0,200066751
+2024,CC Yonne Nord,782.0,248900896
+2024,CC Yvetot Normandie,5392.0,247600620
+2024,Clermont Auvergne Métropole,61109.0,246300701
+2024,CU Angers Loire Métropole,115657.0,244900015
+2024,CU Caen la Mer,25983.0,200065597
+2024,CU d'Alençon,2926.0,246100663
+2024,CU d'Arras,12441.0,200033579
+2024,CU de Dunkerque,30052.0,245900428
+2024,CU du Grand Poitiers,27732.0,200069854
+2024,CU du Grand Reims,40191.0,200067213
+2024,CU Grand Besançon Métropole,15126.0,242500361
+2024,CU Grand Paris Seine et Oise,112518.0,200059889
+2024,CU Le Creusot Montceau-les-Mines,9039.0,247100290
+2024,CU Le Havre Seine Métropole,22760.0,200084952
+2024,CU Le Mans Métropole,27908.0,247200132
+2024,CU Limoges Métropole,13071.0,248719312
+2024,CU Perpignan Méditerranée Métropole,18402.0,200027183
+2024,Dijon Métropole,13036.0,242100410
+2024,Eurométropole de Strasbourg,115956.0,246700488
+2024,Grenoble-Alpes-Métropole,68848.0,200040715
+2024,Île-de-Bréhat,0.0,995322016
+2024,Île-de-Sein,0.0,995329083
+2024,L'Île-d'Yeu,0.0,995285113
+2024,Métropole d'Aix-Marseille-Provence,309335.0,200054807
+2024,Métropole de Lyon,242087.0,200046977
+2024,Métropole du Grand Nancy,28680.0,245400676
+2024,Métropole du Grand Paris,1094266.0,200054781
+2024,Métropole Européenne de Lille,114724.0,200093201
+2024,Métropole Nice Côte d'Azur,111945.0,200030195
+2024,Métropole Rouen Normandie,202649.0,200023414
+2024,Métropole Toulon-Provence-Méditerranée,25603.0,248300543
+2024,Metz Métropole,35662.0,200039865
+2024,Montpellier Méditerranée Métropole,238409.0,243400017
+2024,Nantes Métropole,214326.0,244400404
+2024,Orléans Métropole,43226.0,244500468
+2024,Ouessant,0.0,995329155
+2024,Rennes Métropole,68959.0,243500139
+2024,Saint-Étienne Métropole,37706.0,244200770
+2024,Toulouse Métropole,196333.0,243100518
+2024,Tours Métropole Val de Loire,48720.0,243700754
