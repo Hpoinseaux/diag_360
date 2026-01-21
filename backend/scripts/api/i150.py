@@ -85,9 +85,9 @@ def clean_and_prepare_df(df: pd.DataFrame) -> pd.DataFrame:
     query_bdd = """
     WITH df_epci_filtered AS (
         SELECT 
-        DISTINCT siren,
-        TRY_CAST(REPLACE(total_pop_tot,' ','') AS DOUBLE) AS total_pop_tot
-    FROM df_epci)
+            DISTINCT siren,
+            TRY_CAST(REPLACE(total_pop_tot,' ','') AS DOUBLE) AS total_pop_tot
+        FROM df_epci)
 
     SELECT
         e1.siren as id_epci,
@@ -95,7 +95,7 @@ def clean_and_prepare_df(df: pd.DataFrame) -> pd.DataFrame:
         ROUND((1.0*e2.valeur)/e1.total_pop_tot*10000 ,3) AS valeur_brute,
         '2024' AS annee
     FROM df_epci_filtered e1
-    LEFT JOIN df_nb_covoit e2
+    LEFT JOIN df e2
     ON e2.territoryid = e1.siren
     """
     return duckdb.sql(query_bdd).df()
