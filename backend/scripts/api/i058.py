@@ -38,9 +38,7 @@ logger = logging.getLogger(__name__)
 URL = "https://www.data.gouv.fr/api/1/datasets/r/f5d6ae97-b62e-46a7-ad5e-736c8084cee8"
 DEFAULT_INDICATOR_ID = "i058"
 DEFAULT_YEAR = 2025  
-DEFAULT_SOURCE = (
-    "Data.gouv.fr"
-)
+DEFAULT_SOURCE = "i058.csv"
 
 
 @dataclass
@@ -68,7 +66,7 @@ def load_zone_urb() -> pd.DataFrame:
 
 
     # Lire le CSV
-    path_file = raw_dir / "zone_urbanise.csv"
+    path_file = raw_dir / DEFAULT_SOURCE
     if not path_file.exists():
         raise FileNotFoundError(
             f"Fichier {path_file} introuvable dans le dossier {raw_dir}"
@@ -215,7 +213,7 @@ def transform_payload(df: pd.DataFrame) -> Iterator[RawValue]:
             indicator_id=str(row["id_indicator"]),
             year=str(row["annee"]),
             value=float(row["valeur_brute"]),
-            unit="km",
+            unit="km_amenagements/km2_urbanise",
             source=DEFAULT_SOURCE,
             meta={"raw": row.to_dict()},
         )

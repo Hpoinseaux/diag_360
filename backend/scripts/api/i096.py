@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Indicateur i096 : Médias indépendants par département et par EPCI
+Indicateur i096 : Nb_médias indépendants par département et par EPCI
 Source : Ouest Médias et Monde Diplo
 URL : https://www.ouestmedialab.fr/observatoire/cartographie-des-medias-locaux-en-france/ et https://www.monde-diplomatique.fr/cartes/PPA 
 """
@@ -36,7 +36,7 @@ URL = "https://www.ouestmedialab.fr/observatoire/cartographie-des-medias-locaux-
 DEFAULT_INDICATOR_ID = "i096"
 DEFAULT_YEAR = 2024  # Année fictive car indicateur cumulatif
 DEFAULT_SOURCE = (
-    " Ouest Médias Lab et Monde Diplo"
+    "i096.txt"
 )
 
 
@@ -60,7 +60,7 @@ def get_raw_dir() -> Path:
 
 def extraire_donnees_media():
     raw_dir = get_raw_dir()
-    path_file = raw_dir / "medias_locaux.txt"
+    path_file = raw_dir / DEFAULT_SOURCE
 
     with open(path_file, "r", encoding="utf-8") as f:
         contenu = f.read()

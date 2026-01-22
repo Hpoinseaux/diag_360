@@ -179,7 +179,7 @@ def ensure_indicator_exists(session, indicator_id: str) -> None:
         session.commit()
 
 
-def run(indicator_id: str, year: int) -> None:
+def run(indicator_id: str) -> None:
     """Exécution principale."""
     session = SessionLocal()
     try:

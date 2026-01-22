@@ -33,11 +33,10 @@ from utils.functions import *
 logger = logging.getLogger(__name__)
 
 # Configuration
-URL = ""
+URL = "https://mobilite-durable-tdb.din.developpement-durable.gouv.fr/indicateurs/details/nb-lieux-covoiturage/?mesh=epci"
 DEFAULT_INDICATOR_ID = "i150"
 DEFAULT_YEAR = 2024  # Année fictive car indicateur cumulatif
-DEFAULT_SOURCE = "Mobilité durables"
-
+DEFAULT_SOURCE = "i150.csv"
 
 @dataclass
 class RawValue:
@@ -64,7 +63,7 @@ def fetch_api_payload() -> pd.DataFrame:
     raw_dir = get_raw_dir()
 
     # Lire le CSV
-    path_file = raw_dir / "nb-trajets-covoiturage_2024_export.csv"
+    path_file = raw_dir / DEFAULT_SOURCE
     if not path_file.exists():
         raise FileNotFoundError(
             f"Fichier {path_file} introuvable dans le dossier {raw_dir}"
@@ -112,7 +111,7 @@ def transform_payload(df: pd.DataFrame) -> Iterator[RawValue]:
             indicator_id=str(row["id_indicator"]),
             year=str(row["annee"]),
             value=float(row["valeur_brute"]),
-            unit="km",
+            unit="nb_trajets/10000_habitants",
             source=DEFAULT_SOURCE,
             meta={"raw": row.to_dict()},
         )

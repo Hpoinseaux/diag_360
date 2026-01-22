@@ -33,12 +33,10 @@ from utils.functions import *
 logger = logging.getLogger(__name__)
 
 # Configuration
-URL = ""
+URL = "https://cartosante.atlasante.fr/#c=indicator&f=7&i=prox_struct.dist_str&s=2024&t=A01&view=map12"
 DEFAULT_INDICATOR_ID = "i148"
-DEFAULT_YEAR = 2024  # Année fictive car indicateur cumulatif
-DEFAULT_SOURCE = (
-    "https://cartosante.atlasante.fr/#c=indicator&f=7&i=prox_struct.dist_str&s=2024&t=A01&view=map12"
-)
+DEFAULT_YEAR = 2024  
+DEFAULT_SOURCE = "i148.csv"
 
 
 @dataclass
@@ -66,7 +64,7 @@ def fetch_api_payload() -> pd.DataFrame:
     raw_dir = get_raw_dir()
 
     # Lire le CSV
-    path_file = raw_dir / "dist_urgence.csv"
+    path_file = raw_dir / DEFAULT_SOURCE
     if not path_file.exists():
         raise FileNotFoundError(
             f"Fichier {path_file} introuvable dans le dossier {raw_dir}"
